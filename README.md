@@ -34,13 +34,11 @@
 
 ## 🛠️ Languages & Tools
 
-<p align="left">
+<p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,mysql,git,github,discord,vscode,supabase,linux&perline=8" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,ruby,php,js,ts,go,rust,swift,kotlin,dart,lua,r,html,css,sass,react,vue,angular,nodejs,mysql,postgres,mongo,sqlite,supabase,git,github,docker,aws,linux,ubuntu,bash,vscode,discord,md&perline=10" alt="My Skills" />
   </a>
 </p>
-
-<br>
 
 ## 📊 GitHub Stats
 
